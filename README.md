@@ -1,6 +1,7 @@
-### Olá pessoal! Me chamo Willian Licks 👋
+### Olá! Me chamo Willian Licks de Lucca 👋
 
 - 🔭 Hoje procuro emprego na área, com foco em front-end
+- 🐱‍💻 Curso Análise e Desenvolvimento de Sistemas/UNIASSELVI
 - 🌱 Estudo focando em React enquanto dou algumas olhadas em Typescript 
 - 😄 Pronomes: ele/dele
 
